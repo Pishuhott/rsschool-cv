@@ -6,7 +6,7 @@ Contact Information:
 - Phone: +375 (44) 5789400
 - Telegram: @SerSle
 
-_Few words about myself_
+Few words about myself
 
 A little bit about yourself\
  I am just starting to study IT and I am still far from a specialist.\
