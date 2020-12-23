@@ -1,17 +1,22 @@
 **Sergey Slezhov**
 
-Contact Information:
+Education\
+"Zhlobin State Professional Lyceum of the Service Sector" (2006-2007).</p>
+EPAM UpSkill Lab (2020 - to the present time).</p>
 
-- Email: pishuhott@mail.ru
-- Phone: +375 (44) 5789400
-- Telegram: @SerSle
+Experience
+Tests when studying HTML/CSS basic and JS basic.\
 
-_Few words about myself_
-
-A little bit about yourself\
+A little bit about yourself:\
  I am just starting to study IT and I am still far from a specialist.\
- I like to solve logic problems.\
+I like to solve logic problems.\
  I don't have my own projects or works yet, but I hope that I can create them myself.\
- I want to learn a lot and develop further.
+I want to learn a lot and develop further.\
+\
 
-My knowledge of English is poor, level **A1**.
+Skill:\
+HTML Basic \
+CSS Basic \
+JavaScript Basic\
+\
+English: A1
