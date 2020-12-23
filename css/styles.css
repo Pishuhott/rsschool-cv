@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: blanchedalmond;
+}
+main {
+  background-color: cornsilk;
+}
+.resume {
+  text-align: center;
+}
+.riCol {
+  width: 204px;
+  height: 154px;
+  border: 2px solid black;
+  display: inline-block;
+}
+.leCol {
+  width: 70%;
+  display: inline-block;
+}
+.fL {
+  margin-left: 10px;
+}
+.conInf {
+  margin-left: 10px;
+}
+li {
+  margin-left: 10px;
+}
+article {
+  margin-left: 10px;
+}
+p {
+  margin-left: 10px;
+}
