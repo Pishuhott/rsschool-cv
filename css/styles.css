@@ -6,32 +6,33 @@ header {
 }
 main {
   background-color: cornsilk;
+  min-height: 600px;
 }
 .resume {
   text-align: center;
 }
-.riCol {
+.left-column {
+  width: 70%;
+  display: inline-block;
+}
+.right-column {
   width: 204px;
   height: 154px;
   border: 2px solid black;
   display: inline-block;
 }
-.leCol {
-  width: 70%;
-  display: inline-block;
+.name {
+  margin-left: 50%;
 }
-.fL {
-  margin-left: 10px;
+.conta-iforma {
+  margin-left: 20%;
 }
-.conInf {
-  margin-left: 10px;
-}
-li {
-  margin-left: 10px;
-}
+
 article {
-  margin-left: 10px;
+  margin-top: 10px;
+  padding-top: 20px;
+  margin-left: 14%;
 }
 p {
-  margin-left: 10px;
+  margin-left: 20px;
 }
