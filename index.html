@@ -2,58 +2,66 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="/css/styles.css">
-    <title>RESUME</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="new.css">
+    <title>Resume S_S</title>
 </head>
 <body>
     <header>
-        <h1 class="resume">Resume</h1>
         <section>
-            <div class="left-column">
-                <h2 class="name"> Sergey Slezhov</h2>
-                <nav class="conta-iforma">
-                    <h3>Contact Information:</h3>
-                    <ul>
-                        <li>Email: pishuhott@mail.ru</li>
-                        <li>Phone: +375 (44) 5789400</li>
-                        <li>Telegram: @SerSle</li>
-                    </ul>
-                </nav>
-            </div>
-            <div class="right-column">
-                <img src="/img/my_foto.jpg" alt="My photo" title="Photo by Serhey Slezhov" width="200">
+            <div class="header-resum">
+                <div>
+                    <div class="header-user-name">
+                        <h1 class="user-name">SERGEY SLEZHOV</h1>
+                        <p class="objective">Objective: Junior Front-End Developer</p>
+                    </div>
+                    <img class="my-foto" src="img/my_foto.jpg" alt="My photo" title="Pohoto by Sergey Slezhov" width="200">
+                </div>
+                    <nav class="conta-informat">
+                        <h2>Contact Information</h2>
+                        <ul class="list-contacts">
+                            <li class="email"><img src="img/email_icon.png" alt=""> <a href="mailto: pishuhott@mail.ru">pishuhott@mail.ru</a></li>
+                            <li class="phone"><img src="img/phone_icon.png" alt=""> <a href="tel: +375445789400">+375 (44) 5789400</a></li>
+                            <li class="telegram"><img src="img/telegram_icon.png" alt=""> <a href="https://tele.gg/SerSle" target="blank">@SerSle</a></li>
+                        </ul>
+                    </nav>
             </div>
         </section>
     </header>
+    
     <main>
         <section>
-            <article>
-                <div>
-                    <h3>Education</h3>
-                    <p>"Zhlobin State Professional Lyceum of the Service Sector" (2006-2007).</p>
-                    <p>EPAM UpSkill Lab (2020 - to the present time).</p>
+            <article  class="main">
+                <div class="left-column">
+                    <div class="my-story">
+                        <h3>A little bit about yourself:</h3>
+                        <p>I am just starting to study IT and I am still far from a specialist.
+                            I like to solve logic problems. <br>
+                            I don't have my own projects or works yet, but I hope that I can create them myself.
+                            I want to learn a lot and develop further.</p>
+                    </div>
+                    <div>
+                        <h3>Education</h3>
+                        <p>"Zhlobin State Professional Lyceum of the Service Sector" (2006-2007).</p>
+                        <p>EPAM UpSkill Lab (2020 - to the present time).</p>
+                    </div>
                 </div>
-                <div>
-                    <h3>A little bit about yourself:</h3>
-                    <p>I am just starting to study IT and I am still far from a specialist.
-                        I like to solve logic problems. <br>
-                        I don't have my own projects or works yet, but I hope that I can create them myself.
-                        I want to learn a lot and develop further.</p>
-                </div>
-                <div>
-                    <h3>Experience</h3>
-                    <p>Tests when studying HTML/CSS basic and JS basic.</p>
-                </div>
-                <div>
-                    <h3>Skill</h3>
-                    <p>HTML Basic<br>
-                        CSS Basic<br>
-                        JavaScript Basic</p>
-                        <p>English: <b>A1</b></p>
-                </div>
+                <div class="right-column">
+                    <div class="experience">
+                        <h3>Experience</h3>
+                        <p>Tests when studying HTML/CSS basic and JS basic.</p>
+                    </div>
+                        <div>
+                            <h3 class="skill">Skill</h3>
+                                <ul class="skill-list">
+                                    <li>HTML Basic</li>
+                                    <li>CSS Basic</li>
+                                    <li>JavaScript Basic</li><br>
+                                    <li>English: <b>A1</b></li>
+                        </div>
+                     </div>
             </article>
         </section>
     </main>
-    
 </body>
 </html>
