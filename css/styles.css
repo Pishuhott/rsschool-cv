@@ -1,11 +1,12 @@
 * {
   box-sizing: border-box;
+  transition: all 0.3s;
 }
 section {
   display: flex;
-  justify-content: center;
 }
 .header-resum {
+  margin: 10px auto;
   text-align: center;
   width: 1024px;
   border-radius: 20px;
@@ -16,24 +17,23 @@ section {
 }
 .user-name {
   font-size: 50px;
-  font-family: "Times New Roman";
+  font-family: Tahoma, Verdana, Geneva, sans-serif;
   margin: 20px 0 10px;
   padding: 10px;
 }
 .objective {
   font-size: 36px;
-  font-family: "Times New Roman";
+  font-family: Tahoma, Verdana, Geneva, sans-serif;
   margin: 20px 0 10px;
 }
 .my-foto {
   margin: 55px 0 20px 80px;
+  float: left;
   border-radius: 20px;
   border: 2px solid black;
-  /* фото справа, обтекание текста слева */
-  float: left;
 }
+
 .conta-informat {
-  /* расположение текста по центру */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -43,12 +43,10 @@ nav h2 {
   padding-right: 20px;
 }
 ul.list-contacts {
-  /* сборс отступов */
   margin-bottom: 20px;
   padding: 4px;
 }
 ul.list-contacts li {
-  /* элементы в одну строку */
   display: inline-flex;
   line-height: 32px;
   align-items: center;
@@ -58,13 +56,14 @@ ul.list-contacts li {
 }
 
 .main {
-  margin-top: 10px;
+  margin: 10px auto;
   width: 1024px;
   border-radius: 20px;
   background-color: cadetblue;
 }
 .left-column {
-  font-family: "Times New Roman";
+  margin: 10px auto;
+  font-family: Tahoma, Verdana, Geneva, sans-serif;
   width: 50%;
   float: left;
   text-align: center;
@@ -74,11 +73,12 @@ ul.list-contacts li {
   margin-right: 20px;
 }
 .my-story {
-  height: 170px;
+  height: 195px;
   border-bottom: 2px solid white;
 }
 .right-column {
-  font-family: "Times New Roman";
+  margin: 10px auto;
+  font-family: Tahoma, Verdana, Geneva, sans-serif;
   width: 50%;
   float: right;
 }
@@ -87,7 +87,7 @@ ul.list-contacts li {
   margin-right: 20px;
 }
 .experience {
-  height: 170px;
+  height: 195px;
   text-align: center;
   border-bottom: 2px solid white;
 }
@@ -96,7 +96,7 @@ ul.list-contacts li {
 }
 .skill-list {
   margin-left: 35%;
-  list-style-image: url(img/check_icon.png);
+  list-style-image: url(/img/check_icon.png);
 }
 p {
   font-size: 20px;
@@ -104,22 +104,42 @@ p {
 .main h3 {
   font-size: 22px;
 }
-@media screen and (max-width: 880px) {
-  /* .conta-informat {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  } */
+@media screen and (max-width: 920px) {
+  .header-resum {
+    width: 620px;
+  }
+  .my-foto {
+    margin-left: 30%;
+  }
+  .user-name {
+    font-size: 36px;
+  }
+  .objective {
+    font-size: 20px;
+  }
   .main {
+    width: 620px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* display: inline-block; */
+  }
+  .left-column {
+    width: auto;
+    border-bottom: 1px solid white;
   }
   .my-story {
     height: auto;
   }
+  .experience {
+    height: auto;
+  }
   .skill-list {
     margin-left: 10%;
+  }
+  p {
+    font-size: 16px;
+  }
+  .main h3 {
+    font-size: 18px;
   }
 }
