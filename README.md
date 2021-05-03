@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://pishohott.github.io/rsschool-cv/cv
+**[DEMO](https://pishuhott.github.io/rsschool-cv/)**
