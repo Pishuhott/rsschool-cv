@@ -1,6 +1,5 @@
 # Sergey Slezhov
 
-
 |Telephone number |E-mail:               |
 |-----------------|----------------------|
 |+375 44 578 94 00|`slezhovso@gmail.com` |
@@ -10,11 +9,13 @@
 [LinkedIn profile](https://www.linkedin.com/in/sergey-slezhov-583423206/?locale=en_US)
 
 ---
+
 ### Education
 
 Zhlobin State Professional Lyceum of the Service Sector, specialty - repair and maintenance of electrical networks and equipment, Certificate
 
 ---
+
 ### IT Training Courses
 12.2020 – 07.2021	“The Rolling Scopes School” (RS School), EPAM Systems (https://rs.school/), Front-End development, Certificate
 
@@ -25,15 +26,18 @@ Frameworks and Libraries: lodash, bootstrap
 Tools: GIT, Webpack, VS Code, PhpStorm
 
 ---
+
 ### Other skills
 video, audio and photo editing, video and audio encoding, repair of radio electronics and motorcycles
 
 ---
+
 ### Knowledge of English	
 Completed a course of technical translation from English into Russian (Milashevich method), can read and understand technical texts  
 Course of conversational English (A2) – in the process
 
 ---
+
 ### Work Experience
 05.2007 – 11.2020  
 “Belarusian Steel Works” (BMZ), head of the product shipment team
@@ -54,10 +58,12 @@ Course of conversational English (A2) – in the process
 •	care for the environment
 
 ---
+
 ### Personal qualities	
 Responsibility, sociability, resistance to stress, perseverance, commitment, analytical way of thinking, passion for intellectual type of work, curiosity
 
 ---
+
 ### Hobbies and interests	
 I am fond of nature, animals and motorcycles. In the free time I like to travel, to watch and to read materials about new technologies, to do construction work, to repair electronic and other appliances.
 Besides, as a volunteer, I help homeless animals.
