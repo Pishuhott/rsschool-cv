@@ -61,10 +61,3 @@ Responsibility, sociability, resistance to stress, perseverance, commitment, ana
 ###Hobbies and interests	
 I am fond of nature, animals and motorcycles. In the free time I like to travel, to watch and to read materials about new technologies, to do construction work, to repair electronic and other appliances.
 Besides, as a volunteer, I help homeless animals.
-
-
-
-
-
-
-
