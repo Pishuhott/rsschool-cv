@@ -307,8 +307,24 @@ template {
     max-width: 1020px;
 }
 
+.footer__content-links {
+    display: flex;
+    align-items: center
+}
+
+.footer__content-links a {
+    margin-right: 2rem;
+}
+
 .links_icon {
     width: 8rem;
+}
+
+.icon-github {
+    width: 4rem;
+    padding: 0.4rem;
+    border: 1px black solid;
+    border-radius: 50%;
 }
 
 .footer__content-created p {
