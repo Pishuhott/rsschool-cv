@@ -25,12 +25,8 @@ Programming practices: Code review
 Frameworks and Libraries: lodash, bootstrap  
 Tools: GIT, Webpack, VS Code, PhpStorm
 
----
-
 ### Other skills
 video, audio and photo editing, video and audio encoding, repair of radio electronics and motorcycles
-
----
 
 ### Knowledge of English	
 Completed a course of technical translation from English into Russian (Milashevich method), can read and understand technical texts  
