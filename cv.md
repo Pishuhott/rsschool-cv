@@ -14,7 +14,7 @@
 
 Zhlobin State Professional Lyceum of the Service Sector, specialty - repair and maintenance of electrical networks and equipment, Certificate
 
----
+
 
 ### IT Training Courses
 12.2020 – 07.2021	“The Rolling Scopes School” (RS School), EPAM Systems (https://rs.school/), Front-End development, Certificate
